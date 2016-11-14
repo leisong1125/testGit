@@ -17,9 +17,6 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     NSLog(@"OK， 成功了， 可以了");
-    NSLog(@"sssssssssssssssss");
-    NSLog(@"qqqqqqqqqq");
-    NSLog(@"aaaaaaaaaaaaaaa");
     UIView * view1 = [[UIView alloc] initWithFrame:CGRectMake(10, 10, 10, 10)];
     
     view1.backgroundColor = [UIColor redColor];
